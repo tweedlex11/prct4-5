@@ -1,5 +1,5 @@
 ## Student
-- Name: Vlad Makhun
+- Name: Pavlenko Ivan
 - Group: 232.1
 
 ## Практичне заняття №5 — JWT Authentication + Guards + RBAC
